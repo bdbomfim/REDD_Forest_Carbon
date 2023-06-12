@@ -2,8 +2,6 @@
 
 This repository includes the data and R code used to generate the above and belowground carbon estimates in the carbon accounting section of the REDD+ methodology quality report.
 
-The Allometric_Equations.Rproj is the R project file.
-
 R script files (ending with .R) include the code to manipulate data sets and conduct above and belowground calculations.
 
 Data files (ending with .csv) include the forest inventory data used in each project's carbon calculations.
